@@ -1,0 +1,2 @@
+#define COLOR_EMBED_RED     "{FF0000}"
+#define COLOR_EMBED_WHITE   "{FFFFFF}"
